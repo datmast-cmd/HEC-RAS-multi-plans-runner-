@@ -72,7 +72,7 @@ if %ERRORLEVEL% NEQ 0 (
 
 echo.
 echo ============================================================
-echo  QCT HEC-RAS Batch Runner
+echo  QCT HEC-RAS Batch Runner v1.0 (JUNE 2026)
 echo ============================================================
 echo  Project : %PRJ_FILE%
 echo  Plans   : %PLANS%
